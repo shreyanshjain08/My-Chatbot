@@ -1,12 +1,9 @@
 
 ---
 
-## **2️⃣ Personalized AI Chatbot**  
-📂 Repo: `My-Chatbot`  
-
 ### **README.md**
 ```markdown
-# 🤖 Personalized AI Chatbot
+🤖 Personalized AI Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)]()

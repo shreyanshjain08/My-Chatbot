@@ -1,9 +1,4 @@
-
----
-
-### **README.md**
-```markdown
-🤖 Personalized AI Chatbot
+# 🤖 Personalized AI Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)]()
@@ -21,15 +16,15 @@ A **custom conversational AI chatbot** built with **TensorFlow & Keras** for int
 ---
 
 ## 🛠 Tech Stack
-- **Language:** Python
-- **Libraries:** TensorFlow, Keras, NLTK, NumPy
-- **Dataset:** Custom + Kaggle dataset
+- **Language:** Python  
+- **Libraries:** TensorFlow, Keras, NLTK, NumPy  
+- **Dataset:** Custom + Kaggle dataset  
 
 ---
 
 ## 📊 Model Performance
-- **Intent Recognition Accuracy:** 89%
-- **Response Latency:** <1 sec
+- **Intent Recognition Accuracy:** 89%  
+- **Response Latency:** <1 sec  
 
 ---
 

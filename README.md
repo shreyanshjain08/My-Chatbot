@@ -26,11 +26,7 @@ A **custom conversational AI chatbot** built with **TensorFlow & Keras** for int
 - **Intent Recognition Accuracy:** 89%  
 - **Response Latency:** <1 sec  
 
----
 
-## 📸 Demo
-![Chatbot Demo](chatbot.gif)  
-*(Replace with actual screenshot or GIF)*
 
 ---
 
